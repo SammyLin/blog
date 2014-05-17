@@ -1,7 +1,7 @@
 PATH
   remote: /Users/Sammy/Dropbox/RubyProject/ING/mygem/redactor-rails
   specs:
-    redactor-rails (0.4.4)
+    redactor-rails (0.4.5)
       devise
       mime-types
       orm_adapter
